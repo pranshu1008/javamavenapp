@@ -2,11 +2,14 @@
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> d2584b5472d69fa40f9ed691fad4f2d28e10f684
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
